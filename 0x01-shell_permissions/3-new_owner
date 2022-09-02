@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown 'new owner' 'old owner'
+chown betty owner
