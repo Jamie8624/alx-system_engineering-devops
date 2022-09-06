@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "hello %s.\n" $HOSTNAME
+echo "hello $user"
